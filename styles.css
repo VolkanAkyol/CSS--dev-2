@@ -1,0 +1,37 @@
+#box1 {
+    
+    text-align: center;
+    background-color: gainsboro;
+}
+#search {
+    width: 400px;
+    margin: 2px;
+}
+    
+.images1 {
+    
+    text-align: center; 
+    
+}
+
+
+
+.yesil {
+
+    background-color: aquamarine;
+    width: 502px;
+    float: left;
+    margin-right: 1px;
+    margin: 1px;
+    height: 95px;
+    padding: 1px;
+    border-radius: 2px;
+    text-align: center;
+    line-height:4px;
+
+}
+p {
+    text-align: center;
+    margin-top: 10px;
+}
+
